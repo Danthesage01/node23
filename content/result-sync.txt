@@ -1,0 +1,2 @@
+Here there
+ Here is the result: Hello there, this is the first text file, Hello there, this is the second text fileHere is the result: Hello there, this is the first text file, Hello there, this is the second text fileHere is the result: Hello there, this is the first text file, Hello there, this is the second text file
